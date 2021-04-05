@@ -1,0 +1,23 @@
+{
+  "development": {
+    "username": "root",
+    "password": "matt123",
+    "database": "travel",
+    "host": "139.186.132.230",
+    "dialect": "mysql"
+  },
+  "test": {
+    "username": "root",
+    "password": "matt123",
+    "database": "travel-unittest",
+    "host": "139.186.132.230",
+    "dialect": "mysql"
+  },
+  "production": {
+    "username": "root",
+    "password": "matt123",
+    "database": "travel",
+    "host": "139.186.132.230",
+    "dialect": "mysql"
+  }
+}
